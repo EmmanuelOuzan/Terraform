@@ -1,3 +1,7 @@
-Hello ! 
+Terraform Basic Repo
 
-This is my terrafom configurations files repo ! :) 
+
+- Creation of an instance infront of AWS
+- Creation of a secuirty group 
+- Attachment of the security group into the instance
+- 
